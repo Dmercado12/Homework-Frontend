@@ -1,0 +1,113 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(221, 162, 95);
+}
+.contenedor{
+    display: flex;
+    margin:auto 0;
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-bottom: 80px;
+}
+.carduno{
+width: 250px;
+height: 400px;
+border:1px solid rgb(227, 109, 79);
+background-color: rgb(42, 157, 144) ;
+margin-right: 50px; 
+padding: 20px;
+border-radius: 20px; 
+}
+.carddos{
+width: 250px;
+height: 400px;
+border:1px solid rgb(227, 109, 79);
+background-color:rgb(42, 157, 144);
+margin-right: 50px;    
+padding: 20px; 
+border-radius: 20px;
+}
+.cardtres{
+width: 250px;
+height: 400px;
+border:1px solid rgb(227, 109, 79);
+background-color: rgb(42, 157, 144); 
+padding: 20px;     
+border-radius: 20px;
+}
+.playa{
+border-radius: 10px; 
+margin-left: 25px; 
+}
+.duvan{
+border-radius: 100px; 
+margin-left: 25px; 
+}
+h4{
+font-family: 'Noto Serif', serif;
+text-align: right;
+font-size: 12px;
+color: rgb(39, 71, 84);
+background-color: rgb(227, 109, 79);
+margin-bottom: 15px;
+}
+b{
+font-family: 'Vollkorn', serif;
+font-size: 20px;
+color: rgb(233, 196, 106);
+text-align: center;
+}
+p{
+text-align:left;  
+color: rgb(242, 233, 228) ;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 14px;
+}
+a{
+padding: 85px;    
+}
+h1{
+text-align: center;
+color:rgb(39, 71, 84);  
+margin-top: 15px;  
+}
+h2{
+text-align: center;
+color:rgb(233, 196, 106);
+}
+.precio{
+font-size: 30px;
+text-align: center;
+border-radius: 10px;
+background-color:rgb(227, 109, 79) ;
+color:rgb(39, 71, 84) ;
+margin-top: 10px;
+}
+ul{
+color: rgb(233, 196, 106);    
+}
+.suscribción{
+text-align: center;
+margin-top: 20px;
+background-color: rgb(39, 71, 84); 
+border-radius: 10px;   
+padding: 10px;
+}
+.nombre{
+text-align: center;    
+font-family: 'Noto Serif', serif;
+font-size: 20px;
+background-color:rgb(227, 109, 79) ;
+color:rgb(39, 71, 84) ;
+margin-bottom: 10px;
+}
+.descripción{
+text-align: left;    
+font-family: 'Source Sans Pro', sans-serif;
+margin-bottom: 25px;
+}
+.redes{
+margin-left: 90px;    
+}
